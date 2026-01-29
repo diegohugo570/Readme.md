@@ -90,9 +90,21 @@ Coleção de **notebooks práticos (Google Colab)** focados em **IA aplicada a p
 
 Repositório com **workflows n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional e IA aplicada**.
 
-- Orquestração de processos
-- Integração entre sistemas
-- Enriquecimento de dados com LLMs
+### 🔹 Automação de Processos
+- Automatização de tarefas repetitivas
+- Execução orientada a eventos
+- Orquestração de processos de negócio
+- Redução de trabalho manual
+
+### 🔹 Integração de Sistemas
+- Integração entre múltiplas APIs
+- Webhooks e conectores HTTP
+- Normalização e transformação de dados
+
+### 🔹 IA + Automação
+- Integração de LLMs em workflows
+- Classificação e enriquecimento de dados
+- Tomada de decisão automatizada
 - Base para agentes inteligentes
 
 ---
