@@ -27,6 +27,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ### 🤖 Inteligência Artificial
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
@@ -45,9 +46,9 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Cloudflare](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🌐 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
@@ -65,6 +66,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ### ⚙️ Infraestrutura & Deploy
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0db7ed?style=for-the-badge)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge)
 
 ---
 
