@@ -25,67 +25,37 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🤖 Inteligência Artificial
-Python • LLMs • LangGraph • RAG • Embeddings • Prompt Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
 
 ### 🔁 Automação & Integrações
-n8n • APIs REST • Webhooks
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-374151?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
 
 ### 🗄️ Dados & Persistência
-PostgreSQL • SQL • Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
 
 ### 🌐 Backend
-FastAPI • Node.js • TypeScript • Express
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
 
 ### 🎨 Frontend
-React • TypeScript • Vite • CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Infraestrutura & Deploy
-Docker • Docker Compose • Cloudflare
-
----
-
-## 📚 Portfólio — Python & Inteligência Artificial
-
-Coleção de **projetos e estudos práticos** focados em **IA aplicada a problemas reais de negócio**, com visão de **arquitetura, produto e escala**.
-
-### 🔹 LLMs & IA Aplicada
-- IA aplicada a negócios e produtos  
-- Finanças, Marketing, Atendimento e Operações  
-- Human-in-the-loop  
-- Análises explicáveis com LLMs  
-
-### 🔹 Agentes Autônomos & LangGraph
-- Agentic Workflows  
-- Arquiteturas multi-agentes  
-- Roteamento inteligente com LLMs  
-
-### 🔹 RAG — Retrieval-Augmented Generation
-- Pipelines RAG completos  
-- Enriquecimento de contexto com embeddings  
-- Recuperação semântica em bases vetoriais  
-
----
-
-## 🔁 Portfólio — Automação com n8n
-
-Workflows **n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional, integração de sistemas e IA aplicada**.
-
-### 🔹 Automação de Processos
-- Automatização de tarefas repetitivas  
-- Execução orientada a eventos  
-- Orquestração de processos de negócio  
-- Redução de trabalho manual  
-
-### 🔹 Integração de Sistemas
-- Integração entre múltiplas APIs  
-- Webhooks e conectores HTTP  
-- Normalização e transformação de dados  
-
-### 🔹 IA + Automação
-- Integração de LLMs em workflows  
-- Classificação e enriquecimento de dados  
-- Tomada de decisão automatizada  
-- Base para agentes inteligentes  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0db7ed?style=for-the-badge)
 
 ---
 
@@ -95,20 +65,13 @@ Workflows **n8n exportados**, baseados em **automações reais de produção**, 
 
 Projeto **backend em Python** que integra **dados financeiros**, **notícias de mercado** e **Inteligência Artificial** para apoiar **análise de ações e tomada de decisão**.
 
-**Pilares:**
-- 📈 Dados de mercado  
-- 📰 Contexto informacional  
-- 🤖 Raciocínio estruturado com LLMs  
-
-**Destaques técnicos:**
-- API REST com **FastAPI**
-- Arquitetura em camadas (**API, Services, AI, Schemas**)
-- **Prompt Engineering** com *structured outputs*
-- Base pronta para **RAG** e **agentes autônomos**
-- Projeto **containerizado**
-
 **Stack:**
-Python • FastAPI • Pydantic • Poetry • OpenAI API • Docker
+![Python](https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-2496ED?style=for-the-badge&logo=&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
 
 ---
 
@@ -116,30 +79,35 @@ Python • FastAPI • Pydantic • Poetry • OpenAI API • Docker
 
 ### 📈 Antigravity Financial — Plataforma Financeira com IA
 
-Aplicação **web completa** construída com **FastAPI + Uvicorn**, **Docker** e **Docker Compose**, utilizando **Cloudflare D1** e **Redis** para segurança e performance.
-
-**Funcionalidades:**
-- Autenticação com **JWT**
-- **Rate limiting** com Redis
-- **Admin Panel** para aprovação de usuários
-- **Dashboard financeiro** (Ações, FX, Cripto)
-- Normalização **Base 100**
-- Integração com **Financial Modeling Prep API**
-
 **Stack:**
-FastAPI • Python • Redis • Cloudflare D1 • Docker • JWT
+![FastAPI](https://img.shields.io/badge/FastAPI-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20D1-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-2496ED?style=for-the-badge&logo=&logoColor=white)
 
 ---
 
 ### 📄 OCR Document API — Full Stack
 
-Aplicação **Full Stack** para **upload de imagens**, **extração de texto via OCR**, **persistência relacional** e **busca textual**.
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-2496ED?style=for-the-badge&logo=&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
 
-**Frontend:**  
-React • TypeScript • Vite • CSS • Axios • Docker  
-
-**Backend:**  
-Node.js • TypeScript • Express • PostgreSQL • Multer • Tesseract.js • Docker  
+#### 🌐 Backend
+![Node.js](https://img.shields.io/badge/Node.js-2496ED?style=for-the-badge&logo=&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Express](https://img.shields.io/badge/Express-2496ED?style=for-the-badge&logo=&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2496ED?style=for-the-badge&logo=&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract.js-2496ED?style=for-the-badge&logo=&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
 
 🎥 Vídeo:  
 https://www.loom.com/share/0f83b4adf2f243e6a360af3d4622e7b0
