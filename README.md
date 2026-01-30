@@ -151,9 +151,7 @@ Aplicação **web completa** construída com **FastAPI + Uvicorn**, **Docker** e
 
 ## 📊 GitHub Stats
 
-![Diego Hugo GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegohugo570&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohugo570&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohugo570&layout=compact&theme=default)
 
 ---
 
